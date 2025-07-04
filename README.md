@@ -1,4 +1,4 @@
-# Formula one Quiz From generative ai
+# Formula one Quiz full generative ai (MAGIC Pattern)
 
 
 ## Getting Started
