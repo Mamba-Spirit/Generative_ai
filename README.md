@@ -1,17 +1,11 @@
 # Formula one Quiz full generative ai (MAGIC Pattern)
 
 
-## Getting Started
-
-1. Run `npm install`
-2. Run `npm run dev`
-
-
-## Project Overview
+## Présentation du projet
 
 Ce projet implique la création d'une application web interactive de quiz à choix multiples centrée sur la Formule 1. L'application distingue deux modes d'utilisation - « Grand public » et « Passionnés » - et comprend une gestion simplifiée du profil de l'utilisateur, des statistiques détaillées sur les performances et un tableau de classement local.
 
-## Initial Prompt Creation
+## Prompt initial
 
 je dois faire un résumé de ma demarche de création d'une application web sur la f1 sur mon github pour mon cours de générative ia.
 Je vais te donner les étape etc et je veux que tu le mette en mark down pour mon readme.
@@ -27,7 +21,7 @@ Les précisions suivantes ont été fournies pour clarifier les exigences du pro
 * **Public cible**: Deux modes - Grand public (questions accessibles) et Passionnés (questions techniques).
 
 ## Prompt final généré pour Magi Pattern
-
+J'ai ensuite demandé à l'ia de traduire le prompt en anglais pour plus d'éfficacité.
 ### General Objective
 
 Create an interactive Formula 1 quiz application targeting two distinct user groups—General Audience and Enthusiasts—with simplified user management, theme-based quizzes, performance tracking, and a local leaderboard.
@@ -176,4 +170,10 @@ F1QuizApp/
 * **JavaScript Stack**: Accessible, performant, active community.
 * **LocalStorage**: Simple and effective for lightweight applications.
 
+
+
+## Getting Started
+
+1. Run `npm install`
+2. Run `npm run dev`
 
